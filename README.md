@@ -24,21 +24,21 @@ Utilizar o GitHub como ferramenta de organização e compartilhamento técnico.
 ## Capturas de Tela
 As imagens abaixo estão organizadas na pasta images.
 
-Imagem 1 = Acesso ao serviço de monitoramento 
-Imagem 2 = Abertura da aba *VM Insights* e visualização 
-Imagem 3 = Início da configuração dos *insights* 
-Imagem 4 = Seleção das máquinas virtuais para monitoramento 
-Imagem 5 = Tela de criação dos alertas personalizados 
-Imagem 6 = Definição da ação que será tomada pela regra 
-Imagens 7,8 = Criação do grupo de ação que será notificado 
-Imagem 9 = Finalização da criação da regra de alerta 
-Imagem 10 =ista dos grupos de ação criados 
-Imagem 11 = E-mail recebido confirmando a criação dos grupos 
-Imagem 12 = Conteúdo do e-mail detalhando a criação do grupo 
-Imagem 13 = Exclusão da VM para disparo do alerta 
-Imagem 14 = Visualização do alerta disparado no painel de monitoramento 
-Imagem 15 = Notificações por e-mail recebidas na caixa de entrada 
-Imagem 16 = Conteúdo do e-mail de alerta sobre a exclusão da VM 
+1. Imagem 1 = Acesso ao serviço de monitoramento 
+2. Imagem 2 = Abertura da aba *VM Insights* e visualização 
+3. Imagem 3 = Início da configuração dos *insights* 
+4. Imagem 4 = Seleção das máquinas virtuais para monitoramento 
+5. Imagem 5 = Tela de criação dos alertas personalizados 
+6. Imagem 6 = Definição da ação que será tomada pela regra 
+7. Imagens 7,8 = Criação do grupo de ação que será notificado 
+8. Imagem 9 = Finalização da criação da regra de alerta 
+9. Imagem 10 =ista dos grupos de ação criados 
+10 .Imagem 11 = E-mail recebido confirmando a criação dos grupos 
+11. Imagem 12 = Conteúdo do e-mail detalhando a criação do grupo 
+12. Imagem 13 = Exclusão da VM para disparo do alerta 
+13. Imagem 14 = Visualização do alerta disparado no painel de monitoramento 
+14. Imagem 15 = Notificações por e-mail recebidas na caixa de entrada 
+15. Imagem 16 = Conteúdo do e-mail de alerta sobre a exclusão da VM 
 
 
 ##  Autor
