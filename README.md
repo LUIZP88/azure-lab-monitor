@@ -41,5 +41,5 @@ Imagem 15 = Notificações por e-mail recebidas na caixa de entrada
 Imagem 16 = Conteúdo do e-mail de alerta sobre a exclusão da VM 
 
 
-## ✍️ Autor
+##  Autor
 Luiz Vieira [LinkedIn] https://www.linkedin.com/in/luiz-paulo-vieira
